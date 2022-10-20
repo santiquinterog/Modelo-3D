@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Modelo-3D/static/css/main.7d7df26f.css",
+    "main.js": "/Modelo-3D/static/js/main.ee908998.js",
+    "index.html": "/Modelo-3D/index.html",
+    "main.7d7df26f.css.map": "/Modelo-3D/static/css/main.7d7df26f.css.map",
+    "main.ee908998.js.map": "/Modelo-3D/static/js/main.ee908998.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d7df26f.css",
+    "static/js/main.ee908998.js"
+  ]
+}
